@@ -1,0 +1,44 @@
+.CS1fig{
+  margin: 0px;
+  margin-left: 8px;
+  margin-right: 8px;
+  position: relative;
+  float: left;
+}
+
+.CS1img {
+    width: 480px;
+    clear: left;
+    border-radius: 5px;
+}
+
+.CS1img:hover {
+ cursor: pointer;
+}
+
+.CS1figcap {
+    background-color: rgba(0, 0, 0, 0.41);
+    border-radius: 5px;
+    width: 480px; 
+    height: 340px;
+    display: block;
+    float: left;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    color: white;
+    font-size: 28px;
+}
+
+.CS1figcap:hover {
+    cursor: pointer;
+    font-size: 30px ;
+    transition-duration: 400ms;
+}
+
+.CS1heading{
+    padding-top: 98px;
+}
+
+
+

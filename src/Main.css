@@ -1,0 +1,47 @@
+.Main{
+    width: 100%;
+}
+
+.cardsS1{
+    display: flex;
+    gap: 0px;
+    justify-content: center;
+}
+
+.Pcompoent{
+    background-color: #F2F3F8;
+    width: 96%;
+    margin: auto;
+}
+
+.caroselmaintitle{
+    font-size: 53px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.DeliverySection{
+    display: inline-block;
+    justify-content: center;
+    width: 100%;
+    height: 914px;
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(129, 77, 9);
+
+}
+
+.cardsS2{
+    display: flex;
+    gap: 38px;
+    justify-content: center;
+}
+
+.cardsS3{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+

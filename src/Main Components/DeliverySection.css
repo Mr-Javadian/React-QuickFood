@@ -1,0 +1,91 @@
+.DScontainer{
+    justify-content: center;
+    margin: auto;
+    width: 96%;
+    height: 570px;
+    padding: 0px;
+    background-color: rgb(129, 77, 9);
+    }
+    
+    .DSimg{
+        width: 100%;
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    .DSfigure{
+        margin: 0px;
+        padding: 0px;
+        position: relative;
+        float: left;
+    }
+    
+    .DSfigcaption{
+        width: 100%;
+        height: 595px;
+        background-color: rgba(0, 0, 0, 0.41);
+        color: white;
+        display: block;
+        float: left;
+        position: absolute;
+        text-align: center;
+        top: 0;
+    }
+    
+    hr{
+        width: 155px;
+        height: 0px;
+        
+        margin: 0px;
+        padding: 0px;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        margin-top: 95px;
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+    
+    .DSmaintitle{
+        margin: 0;
+        padding: 0px;
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+    }
+    #FirstH1{
+        font-size: 34px;
+        margin-top: 65px;
+    }
+    #SecondH1{
+        font-size: 70px;
+        margin-top: 25px;
+    }
+    
+    .DSparag{
+        font-size: 18px;
+        line-height: 20px;
+    }
+    
+    
+    #DSbutton{
+    
+        height: 52px;
+        background-color: #EC5353;
+        width: 252px;
+        border-radius: 25px;
+        color: white;
+        font-size: 18px;
+        font-family: "IRANSans";
+        margin-top: 50px;
+        border: solid 1px #EC5353;
+    }
+    
+    #DSbutton:hover{
+    
+        background-color: #F9B128;
+        cursor: pointer;
+        transition-delay: 10ms;
+        transition-duration: 300ms;
+    
+    }

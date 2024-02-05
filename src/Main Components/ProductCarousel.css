@@ -1,0 +1,45 @@
+.PContainer{
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+}
+
+.Pimg{
+    justify-content: center;
+    width: 80%;
+    margin-left: 3vw;
+}
+
+.Ptitle{
+   text-align: center;
+   font-size: 20px;
+   font-family: "IRANSans";
+}
+
+.Pprice{
+    text-align: center;
+    font-size: 18px;
+    font-family: "IRANSans";
+}
+
+.PButton{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 12vw;
+    margin-bottom: 10px;
+    width: 120px;
+    height: 50px;
+    border-radius: 30px;
+    font-size: 13px;
+    font-family: "IRANSANS";
+    color: white;
+    border: 0px;
+    background-color: rgb(38, 113, 175);
+}
+
+.PButton:hover{
+    background-color: #EC5353;
+    transition-duration: 300ms;
+    cursor: pointer;
+}

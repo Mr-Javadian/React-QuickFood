@@ -1,0 +1,19 @@
+/* importing IRANSans font */
+@font-face {
+    font-family: 'IRANSans';
+    src: local('IRANSans'), url(/src/Fonts/IRANSans.woff) format('woff');
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    font-family: "IRANSans";
+}
+
+.container{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+}
+

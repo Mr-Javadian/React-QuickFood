@@ -1,0 +1,33 @@
+.CS3figure{
+    width: 379px;
+    padding: 0px;
+    margin: 0px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.CS3imgcontainer{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    padding: 0px;
+}
+
+.CS3image{
+    width: 100%;
+    height: 463px;
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+    position: relative;
+    padding: 0px;
+}
+
+.CS3image:hover{
+    cursor: pointer;
+    -webkit-transform: scale(1.09);
+    transform: scale(1.09);
+}
+
+
